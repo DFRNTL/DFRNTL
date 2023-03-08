@@ -1,5 +1,5 @@
 {
-  "name": "dfrntl",
+  "name": "dfrntl-landing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,9 +12,17 @@
     "@types/node": "18.14.6",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
+    "html-react-parser": "^3.0.12",
     "next": "13.2.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "4.9.5"
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "typescript": "4.9.5",
+    "typewriter-effect": "^2.19.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
   }
 }
